@@ -1,4 +1,4 @@
 # Beginner7
 This is my first Git Repository.
 <br>
-Author - Bhavishya Bhardwaj
+Author - Bhavishya Bhardwaj (New User)
